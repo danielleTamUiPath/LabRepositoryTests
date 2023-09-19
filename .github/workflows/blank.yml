@@ -27,7 +27,7 @@ jobs:
       - name: Run Tests
         run: |
           echo Running Tests
-          UiPath.CLI.Windows.23.6.8581.19168\tools\uipcli.exe test run "https://staging.uipath.com" DefaultTenant -A tamcontieri -I "4156e968-b9f1-4493-96e7-64d7efd0c79c" -S "H~P!j0DKjsjN1)uG" --applicationScope "OR.Folders.Read OR.Settings.Read" -s "MyRobotTests"
+          UiPath.CLI.Windows.23.6.8581.19168\tools\uipcli.exe test run "https://staging.uipath.com" DefaultTenant -A tamcontieri -I "21318148-ee20-410e-a991-c357267204c6" -S "Iubn8)fXMaD2omD*" --applicationScope "OR.Folders OR.Settings OR.Administration OR.Analytics OR.Assets OR.Audit OR.BackgroundTasks OR.Execution OR.Hypervisor OR.Jobs OR.License OR.Machines OR.ML OR.Monitoring OR.Queues OR.Robots OR.Tasks OR.TestDataQueues OR.TestSetExecutions OR.TestSets OR.TestSetSchedules OR.Users" -s "MyRobotTestSet"
           
           
 
