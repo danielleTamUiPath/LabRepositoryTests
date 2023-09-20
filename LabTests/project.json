@@ -3,6 +3,7 @@
   "description": "Test GitHub Actions",
   "main": "Main.xaml",
   "dependencies": {
+    "AzureKeyVault": "[1.0.6]",
     "UiPath.Excel.Activities": "[2.20.1]",
     "UiPath.Mail.Activities": "[1.18.2]",
     "UiPath.System.Activities": "[23.4.2]",

@@ -12,10 +12,10 @@
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\excelnumberformat\\1.0.10\\lib/netstandard2.0/ExcelNumberFormat.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74\\lib/netstandard2.0/Microsoft.VisualStudio.OLE.Interop.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OOXML.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OpenXml4Net.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\lib/netstandard2.0/BouncyCastle.Crypto.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\sharpziplib\\1.3.3\\lib/netstandard2.1/ICSharpCode.SharpZipLib.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
@@ -23,8 +23,8 @@
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.excel.activities\\2.20.1\\lib/net5.0-windows7.0/Microsoft.Vbe.Interop.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.excel.activities\\2.20.1\\lib/net5.0-windows7.0/Office.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.excel.activities\\2.20.1\\lib/net5.0-windows7.0/UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.excel.activities\\2.20.1\\lib/net5.0-windows7.0/UiPath.Excel.Activities.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.excel.activities\\2.20.1\\lib/net5.0-windows7.0/UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.excel.activities\\2.20.1\\lib/net5.0-windows7.0/UiPath.Excel.Activities.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.excel.activities\\2.20.1\\lib/net5.0-windows7.0/UiPath.Excel.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.platform\\23.4.1\\lib/net6.0-windows7.0/UiPath.Platform.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll"
@@ -37,17 +37,17 @@
         "Version": "1.18.2"
       },
       "Assemblies": [
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.core\\1.18.0\\lib/net5.0/Azure.Core.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.core\\1.27.0\\lib/net6.0/Azure.Core.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\google.apis\\1.55.0\\lib/netstandard2.0/Google.Apis.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/netstandard2.0/Google.Apis.Auth.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/netstandard2.0/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/netstandard2.0/Google.Apis.Auth.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\google.apis.calendar.v3\\1.55.0.2554\\lib/netstandard2.0/Google.Apis.Calendar.v3.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\google.apis.core\\1.55.0\\lib/netstandard2.0/Google.Apis.Core.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\google.apis.gmail.v1\\1.55.0.2510\\lib/netstandard2.0/Google.Apis.Gmail.v1.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\google.apis.peopleservice.v1\\1.55.0.2567\\lib/netstandard2.0/Google.Apis.PeopleService.v1.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\htmlagilitypack\\1.11.38\\lib/netstandard2.0/HtmlAgilityPack.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\mailkit\\3.1.1\\lib/net6.0/MailKit.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.graph\\4.11.0\\lib/netstandard2.0/Microsoft.Graph.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.graph.core\\2.0.5\\lib/netstandard2.0/Microsoft.Graph.Core.dll",
@@ -118,8 +118,8 @@
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Options.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.management.infrastructure.cimcmdlets\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.Management.Infrastructure.CimCmdlets.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.Native.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.powershell.commands.diagnostics\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Diagnostics.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.powershell.commands.management\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Management.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.powershell.commands.utility\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Utility.dll",
@@ -155,8 +155,8 @@
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.duplex\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Duplex.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.http\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Http.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.nettcp\\4.7.0\\lib/netstandard2.0/System.ServiceModel.NetTcp.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.Primitives.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.security\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Security.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.syndication\\5.0.0\\lib/netstandard2.0/System.ServiceModel.Syndication.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.serviceprocess.servicecontroller\\5.0.0\\runtimes/win/lib/netstandard2.0/System.ServiceProcess.ServiceController.dll",
@@ -185,8 +185,8 @@
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.testing.activities\\23.4.0\\lib/net6.0-windows7.0/UiPath.Testing.Activities.Design.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.testing.activities\\23.4.0\\lib/net6.0-windows7.0/UiPath.Testing.Activities.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.testing.activities\\23.4.0\\lib/net6.0-windows7.0/UiPath.Testing.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.testing.activities\\23.4.0\\lib/net6.0-windows7.0/UiPath.Testing.RulesLibrary.dll"
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.testing.activities\\23.4.0\\lib/net6.0-windows7.0/UiPath.Testing.RulesLibrary.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.testing.activities\\23.4.0\\lib/net6.0-windows7.0/UiPath.Testing.dll"
       ],
       "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.testing.activities\\23.4.0"
     },
@@ -198,7 +198,7 @@
       "Assemblies": [
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1\\lib/netstandard2.0/Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18\\lib/netstandard1.4/Microsoft.Rest.ClientRuntime.Azure.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.19\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.Azure.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\nlog\\4.5.11\\lib/netstandard2.0/NLog.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\polly\\7.1.0\\lib/netstandard2.0/Polly.dll",
@@ -221,18 +221,152 @@
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net6.0-windows7.0/UiPath.CV.Activities.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net6.0-windows7.0/UiPath.CV.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net6.0-windows7.0/UiPath.Semantic.Activities.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net6.0-windows7.0/UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net6.0-windows7.0/UiPath.UIAutomationCore.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Contracts.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net6.0-windows7.0/UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.vision\\3.10.1\\lib/net6.0-windows7.0/UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.vision\\3.10.1\\lib/net6.0-windows7.0/UiPath.Vision.Core.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.vision\\3.10.1\\lib/net6.0-windows7.0/UiPath.Vision.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.vision\\3.10.1\\lib/net6.0-windows7.0/UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.vision\\3.10.1\\lib/net6.0-windows7.0/UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.vision\\3.10.1\\lib/net6.0-windows7.0/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.vision\\3.10.1\\lib/net6.0-windows7.0/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities\\23.4.4"
+    },
+    {
+      "Package": {
+        "Id": "AzureKeyVault",
+        "Version": "1.0.6"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.core\\1.27.0\\lib/net6.0/Azure.Core.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.data.tables\\12.2.0\\lib/netstandard2.0/Azure.Data.Tables.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.identity\\1.4.1\\lib/netstandard2.0/Azure.Identity.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.resourcemanager\\1.3.2\\lib/netstandard2.0/Azure.ResourceManager.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.resourcemanager.storage\\1.1.0\\lib/netstandard2.0/Azure.ResourceManager.Storage.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.security.keyvault.secrets\\4.2.0\\lib/netstandard2.0/Azure.Security.KeyVault.Secrets.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.storage.blobs\\12.10.0\\lib/netstandard2.0/Azure.Storage.Blobs.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.storage.common\\12.9.0\\lib/netstandard2.0/Azure.Storage.Common.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azurekeyvault\\1.0.6\\lib/net6.0-windows7.0/AzureKeyVault.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azurekeyvault\\1.0.6\\lib/net6.0-windows7.0/AzureKeyVault_Expressions_33502326.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\csvhelper\\16.0.0\\lib/netstandard2.1/CsvHelper.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\markdig.signed\\0.21.1\\lib/netcoreapp3.1/Markdig.Signed.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.applicationinsights\\2.15.0\\lib/netstandard2.0/Microsoft.ApplicationInsights.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\lib/netstandard2.0/Microsoft.AspNet.SignalR.Client.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6\\lib/netcoreapp3.1/Microsoft.AspNetCore.Connections.Abstractions.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.6\\lib/netstandard2.1/Microsoft.AspNetCore.Http.Connections.Client.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.6\\lib/netcoreapp3.1/Microsoft.AspNetCore.Http.Connections.Common.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.6\\lib/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Client.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.6\\lib/netstandard2.1/Microsoft.AspNetCore.SignalR.Client.Core.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.6\\lib/netcoreapp3.1/Microsoft.AspNetCore.SignalR.Common.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6\\lib/netcoreapp3.1/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.keyvault\\3.0.5\\lib/netstandard2.0/Microsoft.Azure.KeyVault.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.keyvault.webkey\\3.0.5\\lib/netstandard2.0/Microsoft.Azure.KeyVault.WebKey.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.appservice.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.AppService.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.batchai.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.BatchAI.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.cdn.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.Cdn.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.compute.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.Compute.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.containerinstance.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.ContainerInstance.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.containerregistry.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.ContainerRegistry.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.containerservice.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.ContainerService.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.cosmosdb.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.CosmosDB.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.dns.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.Dns.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.eventhub.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.EventHub.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.graph.rbac.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.Graph.RBAC.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.keyvault.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.KeyVault.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.locks.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.Locks.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.monitor.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.Monitor.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.msi.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.Msi.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.network\\20.6.0\\lib/netstandard2.0/Microsoft.Azure.Management.Network.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.network.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.Network.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.privatedns.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.PrivateDns.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.redis.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.Redis.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.resourcemanager.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.ResourceManager.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.search.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.Search.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.securitycenter\\2.1.0\\lib/netstandard2.0/Microsoft.Azure.Management.SecurityCenter.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.servicebus.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.ServiceBus.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.sql.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.Sql.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.storage.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.Storage.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.trafficmanager.fluent\\1.38.0\\lib/netstandard1.4/Microsoft.Azure.Management.TrafficManager.Fluent.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0-2.22527.10\\lib/netcoreapp3.1/Microsoft.CodeAnalysis.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.5.0-2.22527.10\\lib/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.5.0-2.22527.10\\lib/netcoreapp3.1/Microsoft.CodeAnalysis.VisualBasic.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Logging.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Options.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.identity.client\\4.35.1\\lib/netcoreapp2.1/Microsoft.Identity.Client.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.18.4\\lib/netcoreapp2.1/Microsoft.Identity.Client.Extensions.Msal.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.identitymodel.clients.activedirectory\\4.3.0\\lib/netstandard1.3/Microsoft.IdentityModel.Clients.ActiveDirectory.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Logging.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Tokens.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.management.infrastructure.cimcmdlets\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.Management.Infrastructure.CimCmdlets.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.Native.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.powershell.commands.diagnostics\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Diagnostics.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.powershell.commands.management\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Management.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.powershell.commands.utility\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Utility.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.powershell.consolehost\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.ConsoleHost.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.powershell.coreclr.eventing\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.CoreCLR.Eventing.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.powershell.markdownrender\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.MarkdownRender.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.powershell.sdk\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.SDK.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.powershell.security\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Security.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.19\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.Azure.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.rest.clientruntime.azure.authentication\\2.4.1\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.Azure.Authentication.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.wsman.management\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.WSMan.Management.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.wsman.runtime\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.WSMan.Runtime.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\namotion.reflection\\1.0.14\\lib/netstandard2.0/Namotion.Reflection.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\njsonschema\\10.2.2\\lib/netstandard2.0/NJsonSchema.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\sharpziplib\\1.3.3\\lib/netstandard2.1/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20230306.1\\lib/net5.0-windows7.0/System.Activities.ViewModels.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.componentmodel.composition\\5.0.0\\lib/netcoreapp2.0/System.ComponentModel.Composition.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.componentmodel.composition.registration\\5.0.0\\lib/netstandard2.1/System.ComponentModel.Composition.Registration.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.data.odbc\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.Data.Odbc.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.data.oledb\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Data.OleDb.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.data.sqlclient\\4.8.1\\runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.directoryservices.accountmanagement\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.AccountManagement.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.directoryservices.protocols\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.io.pipelines\\4.7.1\\lib/netcoreapp3.0/System.IO.Pipelines.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.io.ports\\5.0.0\\runtimes/win/lib/netstandard2.0/System.IO.Ports.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.management\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.Management.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.management.automation\\7.1.0\\runtimes/win/lib/net5.0/System.Management.Automation.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.memory.data\\1.0.2\\lib/netstandard2.0/System.Memory.Data.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.net.http.winhttphandler\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Net.Http.WinHttpHandler.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.private.servicemodel\\4.7.0\\lib/netstandard2.0/System.Private.ServiceModel.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.reflection.context\\5.0.0\\lib/netstandard2.1/System.Reflection.Context.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.runtime.caching\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.duplex\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Duplex.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.http\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Http.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.nettcp\\4.7.0\\lib/netstandard2.0/System.ServiceModel.NetTcp.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.Primitives.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.security\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Security.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.syndication\\5.0.0\\lib/netstandard2.0/System.ServiceModel.Syndication.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.serviceprocess.servicecontroller\\5.0.0\\runtimes/win/lib/netstandard2.0/System.ServiceProcess.ServiceController.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.azure.activities\\1.4.0\\lib/net6.0-windows7.0/UiPath.Azure.Activities.Design.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.azure.activities\\1.4.0\\lib/net6.0-windows7.0/UiPath.Azure.Activities.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.azure.activities\\1.4.0\\lib/net6.0-windows7.0/UiPath.Azure.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.platform\\23.4.1\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.system.activities\\23.4.2\\lib/net6.0-windows7.0/UiPath.System.Activities.Design.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.system.activities\\23.4.2\\lib/net6.0-windows7.0/UiPath.System.Activities.ViewModels.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.system.runtime.windows\\23.4.2\\lib/net6.0-windows7.0/UiPath.OrchestratorClient.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.system.runtime.windows\\23.4.2\\lib/net6.0-windows7.0/UiPath.System.Activities.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\windowsazure.storage\\9.3.3\\lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\azurekeyvault\\1.0.6"
     }
   ],
   "Conflicts": [],
@@ -253,23 +387,15 @@
     },
     "Azure.Core": {
       "Id": "Azure.Core",
-      "Version": "1.18.0",
+      "Version": "1.27.0",
       "Dependencies": [
         {
           "Item1": "Microsoft.Bcl.AsyncInterfaces",
-          "Item2": "[1.0.0, )"
-        },
-        {
-          "Item1": "System.Buffers",
-          "Item2": "[4.5.1, )"
+          "Item2": "[1.1.1, )"
         },
         {
           "Item1": "System.Diagnostics.DiagnosticSource",
           "Item2": "[4.6.0, )"
-        },
-        {
-          "Item1": "System.Memory",
-          "Item2": "[4.5.4, )"
         },
         {
           "Item1": "System.Memory.Data",
@@ -285,11 +411,151 @@
         },
         {
           "Item1": "System.Text.Json",
+          "Item2": "[4.7.2, )"
+        },
+        {
+          "Item1": "System.Threading.Tasks.Extensions",
+          "Item2": "[4.5.4, )"
+        }
+      ]
+    },
+    "Azure.Data.Tables": {
+      "Id": "Azure.Data.Tables",
+      "Version": "12.2.0",
+      "Dependencies": [
+        {
+          "Item1": "Azure.Core",
+          "Item2": "[1.19.0, )"
+        },
+        {
+          "Item1": "System.Text.Json",
+          "Item2": "[4.6.0, )"
+        }
+      ]
+    },
+    "Azure.Identity": {
+      "Id": "Azure.Identity",
+      "Version": "1.4.1",
+      "Dependencies": [
+        {
+          "Item1": "Azure.Core",
+          "Item2": "[1.17.0, )"
+        },
+        {
+          "Item1": "Microsoft.Identity.Client",
+          "Item2": "[4.30.1, )"
+        },
+        {
+          "Item1": "Microsoft.Identity.Client.Extensions.Msal",
+          "Item2": "[2.18.4, )"
+        },
+        {
+          "Item1": "System.Memory",
+          "Item2": "[4.5.4, )"
+        },
+        {
+          "Item1": "System.Security.Cryptography.ProtectedData",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "System.Text.Json",
           "Item2": "[4.6.0, )"
         },
         {
           "Item1": "System.Threading.Tasks.Extensions",
           "Item2": "[4.5.2, )"
+        }
+      ]
+    },
+    "Azure.ResourceManager": {
+      "Id": "Azure.ResourceManager",
+      "Version": "1.3.2",
+      "Dependencies": [
+        {
+          "Item1": "Azure.Core",
+          "Item2": "[1.26.0, )"
+        },
+        {
+          "Item1": "System.Text.Json",
+          "Item2": "[4.7.2, )"
+        }
+      ]
+    },
+    "Azure.ResourceManager.Storage": {
+      "Id": "Azure.ResourceManager.Storage",
+      "Version": "1.1.0",
+      "Dependencies": [
+        {
+          "Item1": "Azure.Core",
+          "Item2": "[1.26.0, )"
+        },
+        {
+          "Item1": "Azure.ResourceManager",
+          "Item2": "[1.3.2, )"
+        },
+        {
+          "Item1": "System.Text.Json",
+          "Item2": "[4.7.2, )"
+        }
+      ]
+    },
+    "Azure.Security.KeyVault.Secrets": {
+      "Id": "Azure.Security.KeyVault.Secrets",
+      "Version": "4.2.0",
+      "Dependencies": [
+        {
+          "Item1": "Azure.Core",
+          "Item2": "[1.15.0, )"
+        },
+        {
+          "Item1": "System.Memory",
+          "Item2": "[4.5.4, )"
+        },
+        {
+          "Item1": "System.Text.Json",
+          "Item2": "[4.6.0, )"
+        },
+        {
+          "Item1": "System.Threading.Tasks.Extensions",
+          "Item2": "[4.5.2, )"
+        }
+      ]
+    },
+    "Azure.Storage.Blobs": {
+      "Id": "Azure.Storage.Blobs",
+      "Version": "12.10.0",
+      "Dependencies": [
+        {
+          "Item1": "Azure.Storage.Common",
+          "Item2": "[12.9.0, )"
+        },
+        {
+          "Item1": "System.Text.Json",
+          "Item2": "[4.6.0, )"
+        }
+      ]
+    },
+    "Azure.Storage.Common": {
+      "Id": "Azure.Storage.Common",
+      "Version": "12.9.0",
+      "Dependencies": [
+        {
+          "Item1": "Azure.Core",
+          "Item2": "[1.19.0, )"
+        }
+      ]
+    },
+    "AzureKeyVault": {
+      "Id": "AzureKeyVault",
+      "Version": "1.0.6",
+      "Dependencies": [
+        {
+          "Item1": "UiPath.Azure.Activities",
+          "Item2": "[1.4.0, )"
+        },
+        {
+          "Item1": "UiPath.System.Activities",
+          "Item2": "[23.4.2, )"
         }
       ]
     },
@@ -602,9 +868,963 @@
         }
       ]
     },
+    "Microsoft.Azure.KeyVault": {
+      "Id": "Microsoft.Azure.KeyVault",
+      "Version": "3.0.5",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.KeyVault.WebKey",
+          "Item2": "[3.0.5, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.KeyVault.WebKey": {
+      "Id": "Microsoft.Azure.KeyVault.WebKey",
+      "Version": "3.0.5",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        },
+        {
+          "Item1": "System.Collections",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Collections.Concurrent",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Linq",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        },
+        {
+          "Item1": "System.Runtime",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Security.Cryptography.Algorithms",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Security.Cryptography.Cng",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.AppService.Fluent": {
+      "Id": "Microsoft.Azure.Management.AppService.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.KeyVault.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Msi.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Storage.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.BatchAI.Fluent": {
+      "Id": "Microsoft.Azure.Management.BatchAI.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.KeyVault.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Storage.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.Cdn.Fluent": {
+      "Id": "Microsoft.Azure.Management.Cdn.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.Compute.Fluent": {
+      "Id": "Microsoft.Azure.Management.Compute.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.Graph.RBAC.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Msi.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Network.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Storage.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.ContainerInstance.Fluent": {
+      "Id": "Microsoft.Azure.Management.ContainerInstance.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.Graph.RBAC.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Msi.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Network.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Storage.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        },
+        {
+          "Item1": "WindowsAzure.Storage",
+          "Item2": "[9.3.3, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.ContainerRegistry.Fluent": {
+      "Id": "Microsoft.Azure.Management.ContainerRegistry.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Storage.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.ContainerService.Fluent": {
+      "Id": "Microsoft.Azure.Management.ContainerService.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.CosmosDB.Fluent": {
+      "Id": "Microsoft.Azure.Management.CosmosDB.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.Dns.Fluent": {
+      "Id": "Microsoft.Azure.Management.Dns.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.EventHub.Fluent": {
+      "Id": "Microsoft.Azure.Management.EventHub.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Storage.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        },
+        {
+          "Item1": "WindowsAzure.Storage",
+          "Item2": "[9.3.3, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.Fluent": {
+      "Id": "Microsoft.Azure.Management.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.AppService.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.BatchAI.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Cdn.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Compute.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.ContainerInstance.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.ContainerRegistry.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.ContainerService.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.CosmosDB.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Dns.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.EventHub.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Graph.RBAC.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.KeyVault.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Locks.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Monitor.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Msi.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Network.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.PrivateDns.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Redis.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Search.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.ServiceBus.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Sql.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Storage.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.TrafficManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.Graph.RBAC.Fluent": {
+      "Id": "Microsoft.Azure.Management.Graph.RBAC.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.KeyVault.Fluent": {
+      "Id": "Microsoft.Azure.Management.KeyVault.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.Graph.RBAC.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.KeyVault",
+          "Item2": "[3.0.5, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.Locks.Fluent": {
+      "Id": "Microsoft.Azure.Management.Locks.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.Monitor.Fluent": {
+      "Id": "Microsoft.Azure.Management.Monitor.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.Msi.Fluent": {
+      "Id": "Microsoft.Azure.Management.Msi.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.Graph.RBAC.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.Network": {
+      "Id": "Microsoft.Azure.Management.Network",
+      "Version": "20.6.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.19, 4.0.0)"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.Network.Fluent": {
+      "Id": "Microsoft.Azure.Management.Network.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.PrivateDns.Fluent": {
+      "Id": "Microsoft.Azure.Management.PrivateDns.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.Redis.Fluent": {
+      "Id": "Microsoft.Azure.Management.Redis.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.ResourceManager.Fluent": {
+      "Id": "Microsoft.Azure.Management.ResourceManager.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure.Authentication",
+          "Item2": "[2.4.1, )"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        },
+        {
+          "Item1": "System.Net.NetworkInformation",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Reflection.TypeExtensions",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.Search.Fluent": {
+      "Id": "Microsoft.Azure.Management.Search.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.SecurityCenter": {
+      "Id": "Microsoft.Azure.Management.SecurityCenter",
+      "Version": "2.1.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.19, 4.0.0)"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.ServiceBus.Fluent": {
+      "Id": "Microsoft.Azure.Management.ServiceBus.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.Sql.Fluent": {
+      "Id": "Microsoft.Azure.Management.Sql.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Storage.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        },
+        {
+          "Item1": "WindowsAzure.Storage",
+          "Item2": "[9.3.3, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.Storage.Fluent": {
+      "Id": "Microsoft.Azure.Management.Storage.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
+    "Microsoft.Azure.Management.TrafficManager.Fluent": {
+      "Id": "Microsoft.Azure.Management.TrafficManager.Fluent",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime.Azure",
+          "Item2": "[3.3.18, 4.0.0)"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        }
+      ]
+    },
     "Microsoft.Bcl.AsyncInterfaces": {
       "Id": "Microsoft.Bcl.AsyncInterfaces",
-      "Version": "1.0.0",
+      "Version": "1.1.1",
       "Dependencies": []
     },
     "Microsoft.CodeAnalysis.Analyzers": {
@@ -811,6 +2031,50 @@
       "Id": "Microsoft.Identity.Client",
       "Version": "4.35.1",
       "Dependencies": []
+    },
+    "Microsoft.Identity.Client.Extensions.Msal": {
+      "Id": "Microsoft.Identity.Client.Extensions.Msal",
+      "Version": "2.18.4",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Identity.Client",
+          "Item2": "[4.30.0, )"
+        },
+        {
+          "Item1": "System.Security.Cryptography.ProtectedData",
+          "Item2": "[4.5.0, )"
+        }
+      ]
+    },
+    "Microsoft.IdentityModel.Clients.ActiveDirectory": {
+      "Id": "Microsoft.IdentityModel.Clients.ActiveDirectory",
+      "Version": "4.3.0",
+      "Dependencies": [
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Runtime.Serialization.Json",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime.Serialization.Primitives",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Security.Cryptography.X509Certificates",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Security.SecureString",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Xml.XDocument",
+          "Item2": "[4.3.0, )"
+        }
+      ]
     },
     "Microsoft.IdentityModel.JsonWebTokens": {
       "Id": "Microsoft.IdentityModel.JsonWebTokens",
@@ -1123,15 +2387,33 @@
     },
     "Microsoft.Rest.ClientRuntime.Azure": {
       "Id": "Microsoft.Rest.ClientRuntime.Azure",
-      "Version": "3.3.18",
+      "Version": "3.3.19",
       "Dependencies": [
         {
           "Item1": "Microsoft.Rest.ClientRuntime",
-          "Item2": "[2.3.17, 3.0.0)"
+          "Item2": "[2.3.19, 3.0.0)"
         },
         {
-          "Item1": "NETStandard.Library",
-          "Item2": "[1.6.1, )"
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        }
+      ]
+    },
+    "Microsoft.Rest.ClientRuntime.Azure.Authentication": {
+      "Id": "Microsoft.Rest.ClientRuntime.Azure.Authentication",
+      "Version": "2.4.1",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.IdentityModel.Clients.ActiveDirectory",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "Microsoft.IdentityModel.Tokens",
+          "Item2": "[5.1.2, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, 3.0.0)"
         },
         {
           "Item1": "Newtonsoft.Json",
@@ -2027,8 +3309,29 @@
     },
     "System.Buffers": {
       "Id": "System.Buffers",
-      "Version": "4.5.1",
-      "Dependencies": []
+      "Version": "4.3.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Diagnostics.Debug",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Diagnostics.Tracing",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Resources.ResourceManager",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Threading",
+          "Item2": "[4.3.0, )"
+        }
+      ]
     },
     "System.CodeDom": {
       "Id": "System.CodeDom",
@@ -3057,6 +4360,104 @@
       "Version": "5.0.0",
       "Dependencies": []
     },
+    "System.Net.NetworkInformation": {
+      "Id": "System.Net.NetworkInformation",
+      "Version": "4.3.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.NETCore.Platforms",
+          "Item2": "[1.1.0, )"
+        },
+        {
+          "Item1": "Microsoft.Win32.Primitives",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "runtime.native.System",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Collections",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Diagnostics.Tracing",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Globalization",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.IO",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.IO.FileSystem",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.IO.FileSystem.Primitives",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Linq",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Net.Primitives",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Net.Sockets",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Resources.ResourceManager",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime.Extensions",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime.Handles",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime.InteropServices",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Security.Principal.Windows",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Threading",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Threading.Overlapped",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Threading.Tasks",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Threading.Thread",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Threading.ThreadPool",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
     "System.Net.Primitives": {
       "Id": "System.Net.Primitives",
       "Version": "4.3.0",
@@ -3136,6 +4537,112 @@
         },
         {
           "Item1": "System.Threading",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
+    "System.Private.DataContractSerialization": {
+      "Id": "System.Private.DataContractSerialization",
+      "Version": "4.3.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Collections",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Collections.Concurrent",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Diagnostics.Debug",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Globalization",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.IO",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Linq",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Reflection",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Reflection.Emit.ILGeneration",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Reflection.Emit.Lightweight",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Reflection.Extensions",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Reflection.Primitives",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Reflection.TypeExtensions",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Resources.ResourceManager",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime.Extensions",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime.Serialization.Primitives",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Text.Encoding",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Text.Encoding.Extensions",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Text.RegularExpressions",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Threading",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Threading.Tasks",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Xml.ReaderWriter",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Xml.XDocument",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Xml.XmlDocument",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Xml.XmlSerializer",
           "Item2": "[4.3.0, )"
         }
       ]
@@ -3441,6 +4948,38 @@
         },
         {
           "Item1": "System.Runtime.Extensions",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
+    "System.Runtime.Serialization.Json": {
+      "Id": "System.Runtime.Serialization.Json",
+      "Version": "4.3.0",
+      "Dependencies": [
+        {
+          "Item1": "System.IO",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Private.DataContractSerialization",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
+    "System.Runtime.Serialization.Primitives": {
+      "Id": "System.Runtime.Serialization.Primitives",
+      "Version": "4.3.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Resources.ResourceManager",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime",
           "Item2": "[4.3.0, )"
         }
       ]
@@ -3933,6 +5472,44 @@
       "Version": "5.0.0",
       "Dependencies": []
     },
+    "System.Security.SecureString": {
+      "Id": "System.Security.SecureString",
+      "Version": "4.3.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.NETCore.Platforms",
+          "Item2": "[1.1.0, )"
+        },
+        {
+          "Item1": "System.Resources.ResourceManager",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime.Handles",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime.InteropServices",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Security.Cryptography.Primitives",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Text.Encoding",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Threading",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
     "System.ServiceModel.Duplex": {
       "Id": "System.ServiceModel.Duplex",
       "Version": "4.7.0",
@@ -4117,6 +5694,28 @@
       "Version": "4.7.1",
       "Dependencies": []
     },
+    "System.Threading.Overlapped": {
+      "Id": "System.Threading.Overlapped",
+      "Version": "4.3.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.NETCore.Platforms",
+          "Item2": "[1.1.0, )"
+        },
+        {
+          "Item1": "System.Resources.ResourceManager",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime.Handles",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
     "System.Threading.Tasks": {
       "Id": "System.Threading.Tasks",
       "Version": "4.3.0",
@@ -4144,6 +5743,30 @@
       "Id": "System.Threading.Tasks.Extensions",
       "Version": "4.5.4",
       "Dependencies": []
+    },
+    "System.Threading.Thread": {
+      "Id": "System.Threading.Thread",
+      "Version": "4.3.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Runtime",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
+    "System.Threading.ThreadPool": {
+      "Id": "System.Threading.ThreadPool",
+      "Version": "4.3.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Runtime",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime.Handles",
+          "Item2": "[4.3.0, )"
+        }
+      ]
     },
     "System.Threading.Timer": {
       "Id": "System.Threading.Timer",
@@ -4298,6 +5921,126 @@
         }
       ]
     },
+    "System.Xml.XmlDocument": {
+      "Id": "System.Xml.XmlDocument",
+      "Version": "4.3.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Collections",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Diagnostics.Debug",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Globalization",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.IO",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Resources.ResourceManager",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime.Extensions",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Text.Encoding",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Threading",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Xml.ReaderWriter",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
+    "System.Xml.XmlSerializer": {
+      "Id": "System.Xml.XmlSerializer",
+      "Version": "4.3.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Collections",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Globalization",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.IO",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Linq",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Reflection",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Reflection.Emit",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Reflection.Emit.ILGeneration",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Reflection.Extensions",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Reflection.Primitives",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Reflection.TypeExtensions",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Resources.ResourceManager",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime.Extensions",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Text.RegularExpressions",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Threading",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Xml.ReaderWriter",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Xml.XmlDocument",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
     "UiPath": {
       "Id": "UiPath",
       "Version": "23.4.57.3408",
@@ -4310,6 +6053,68 @@
         {
           "Item1": "Newtonsoft.Json",
           "Item2": "[11.0.2, )"
+        }
+      ]
+    },
+    "UiPath.Azure.Activities": {
+      "Id": "UiPath.Azure.Activities",
+      "Version": "1.4.0",
+      "Dependencies": [
+        {
+          "Item1": "Azure.Core",
+          "Item2": "[1.27.0, )"
+        },
+        {
+          "Item1": "Azure.Data.Tables",
+          "Item2": "[12.2.0, )"
+        },
+        {
+          "Item1": "Azure.Identity",
+          "Item2": "[1.4.1, )"
+        },
+        {
+          "Item1": "Azure.ResourceManager",
+          "Item2": "[1.3.2, )"
+        },
+        {
+          "Item1": "Azure.ResourceManager.Storage",
+          "Item2": "[1.1.0, )"
+        },
+        {
+          "Item1": "Azure.Security.KeyVault.Secrets",
+          "Item2": "[4.2.0, )"
+        },
+        {
+          "Item1": "Azure.Storage.Blobs",
+          "Item2": "[12.10.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.Network",
+          "Item2": "[20.6.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.ResourceManager.Fluent",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Microsoft.Azure.Management.SecurityCenter",
+          "Item2": "[2.1.0, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[13.0.1, )"
+        },
+        {
+          "Item1": "UiPath.Platform",
+          "Item2": "[21.12.0-preview, )"
+        },
+        {
+          "Item1": "UiPath.Telemetry.Client",
+          "Item2": "[1.5.3, )"
         }
       ]
     },
@@ -4809,6 +6614,20 @@
           "Item2": "[2.14.0, )"
         }
       ]
+    },
+    "WindowsAzure.Storage": {
+      "Id": "WindowsAzure.Storage",
+      "Version": "9.3.3",
+      "Dependencies": [
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.2, )"
+        }
+      ]
     }
   },
   "AllPackages": [
@@ -4825,12 +6644,93 @@
     {
       "Package": {
         "Id": "Azure.Core",
-        "Version": "1.18.0"
+        "Version": "1.27.0"
       },
       "Assemblies": [
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.core\\1.18.0\\lib\\net5.0\\Azure.Core.dll"
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.core\\1.27.0\\lib\\net6.0\\Azure.Core.dll"
       ],
-      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.core\\1.18.0"
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.core\\1.27.0"
+    },
+    {
+      "Package": {
+        "Id": "Azure.Data.Tables",
+        "Version": "12.2.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.data.tables\\12.2.0\\lib\\netstandard2.0\\Azure.Data.Tables.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.data.tables\\12.2.0"
+    },
+    {
+      "Package": {
+        "Id": "Azure.Identity",
+        "Version": "1.4.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.identity\\1.4.1\\lib\\netstandard2.0\\Azure.Identity.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.identity\\1.4.1"
+    },
+    {
+      "Package": {
+        "Id": "Azure.ResourceManager",
+        "Version": "1.3.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.resourcemanager\\1.3.2\\lib\\netstandard2.0\\Azure.ResourceManager.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.resourcemanager\\1.3.2"
+    },
+    {
+      "Package": {
+        "Id": "Azure.ResourceManager.Storage",
+        "Version": "1.1.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.resourcemanager.storage\\1.1.0\\lib\\netstandard2.0\\Azure.ResourceManager.Storage.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.resourcemanager.storage\\1.1.0"
+    },
+    {
+      "Package": {
+        "Id": "Azure.Security.KeyVault.Secrets",
+        "Version": "4.2.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.security.keyvault.secrets\\4.2.0\\lib\\netstandard2.0\\Azure.Security.KeyVault.Secrets.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.security.keyvault.secrets\\4.2.0"
+    },
+    {
+      "Package": {
+        "Id": "Azure.Storage.Blobs",
+        "Version": "12.10.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.storage.blobs\\12.10.0\\lib\\netstandard2.0\\Azure.Storage.Blobs.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.storage.blobs\\12.10.0"
+    },
+    {
+      "Package": {
+        "Id": "Azure.Storage.Common",
+        "Version": "12.9.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.storage.common\\12.9.0\\lib\\netstandard2.0\\Azure.Storage.Common.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\azure.storage.common\\12.9.0"
+    },
+    {
+      "Package": {
+        "Id": "AzureKeyVault",
+        "Version": "1.0.6"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azurekeyvault\\1.0.6\\lib\\net6.0-windows7.0\\AzureKeyVault.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\azurekeyvault\\1.0.6\\lib\\net6.0-windows7.0\\AzureKeyVault_Expressions_33502326.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\azurekeyvault\\1.0.6"
     },
     {
       "Package": {
@@ -4888,8 +6788,8 @@
         "Version": "1.55.0"
       },
       "Assemblies": [
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.PlatformServices.dll"
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.dll"
       ],
       "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\google.apis.auth\\1.55.0"
     },
@@ -5075,13 +6975,303 @@
     },
     {
       "Package": {
-        "Id": "Microsoft.Bcl.AsyncInterfaces",
-        "Version": "1.0.0"
+        "Id": "Microsoft.Azure.KeyVault",
+        "Version": "3.0.5"
       },
       "Assemblies": [
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\lib\\netstandard2.1\\Microsoft.Bcl.AsyncInterfaces.dll"
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.keyvault\\3.0.5\\lib\\netstandard2.0\\Microsoft.Azure.KeyVault.dll"
       ],
-      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0"
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.keyvault\\3.0.5"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.KeyVault.WebKey",
+        "Version": "3.0.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.keyvault.webkey\\3.0.5\\lib\\netstandard2.0\\Microsoft.Azure.KeyVault.WebKey.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.keyvault.webkey\\3.0.5"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.AppService.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.appservice.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.AppService.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.appservice.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.BatchAI.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.batchai.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.BatchAI.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.batchai.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.Cdn.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.cdn.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.Cdn.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.cdn.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.Compute.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.compute.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.Compute.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.compute.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.ContainerInstance.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.containerinstance.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.ContainerInstance.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.containerinstance.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.ContainerRegistry.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.containerregistry.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.ContainerRegistry.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.containerregistry.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.ContainerService.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.containerservice.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.ContainerService.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.containerservice.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.CosmosDB.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.cosmosdb.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.CosmosDB.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.cosmosdb.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.Dns.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.dns.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.Dns.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.dns.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.EventHub.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.eventhub.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.EventHub.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.eventhub.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.Graph.RBAC.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.graph.rbac.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.Graph.RBAC.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.graph.rbac.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.KeyVault.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.keyvault.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.KeyVault.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.keyvault.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.Locks.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.locks.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.Locks.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.locks.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.Monitor.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.monitor.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.Monitor.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.monitor.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.Msi.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.msi.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.Msi.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.msi.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.Network",
+        "Version": "20.6.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.network\\20.6.0\\lib\\netstandard2.0\\Microsoft.Azure.Management.Network.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.network\\20.6.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.Network.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.network.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.Network.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.network.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.PrivateDns.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.privatedns.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.PrivateDns.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.privatedns.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.Redis.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.redis.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.Redis.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.redis.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.ResourceManager.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.resourcemanager.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.ResourceManager.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.resourcemanager.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.Search.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.search.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.Search.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.search.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.SecurityCenter",
+        "Version": "2.1.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.securitycenter\\2.1.0\\lib\\netstandard2.0\\Microsoft.Azure.Management.SecurityCenter.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.securitycenter\\2.1.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.ServiceBus.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.servicebus.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.ServiceBus.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.servicebus.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.Sql.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.sql.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.Sql.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.sql.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.Storage.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.storage.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.Storage.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.storage.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Azure.Management.TrafficManager.Fluent",
+        "Version": "1.38.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.trafficmanager.fluent\\1.38.0\\lib\\netstandard1.4\\Microsoft.Azure.Management.TrafficManager.Fluent.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.azure.management.trafficmanager.fluent\\1.38.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Bcl.AsyncInterfaces",
+        "Version": "1.1.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\lib\\netstandard2.1\\Microsoft.Bcl.AsyncInterfaces.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1"
     },
     {
       "Package": {
@@ -5260,6 +7450,26 @@
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.identity.client\\4.35.1\\lib\\netcoreapp2.1\\Microsoft.Identity.Client.dll"
       ],
       "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.identity.client\\4.35.1"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Identity.Client.Extensions.Msal",
+        "Version": "2.18.4"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.18.4\\lib\\netcoreapp2.1\\Microsoft.Identity.Client.Extensions.Msal.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.18.4"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.IdentityModel.Clients.ActiveDirectory",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.identitymodel.clients.activedirectory\\4.3.0\\lib\\netstandard1.3\\Microsoft.IdentityModel.Clients.ActiveDirectory.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.identitymodel.clients.activedirectory\\4.3.0"
     },
     {
       "Package": {
@@ -5458,12 +7668,22 @@
     {
       "Package": {
         "Id": "Microsoft.Rest.ClientRuntime.Azure",
-        "Version": "3.3.18"
+        "Version": "3.3.19"
       },
       "Assemblies": [
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18\\lib\\netstandard1.4\\Microsoft.Rest.ClientRuntime.Azure.dll"
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.19\\lib\\netstandard2.0\\Microsoft.Rest.ClientRuntime.Azure.dll"
       ],
-      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18"
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.19"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Rest.ClientRuntime.Azure.Authentication",
+        "Version": "2.4.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.rest.clientruntime.azure.authentication\\2.4.1\\lib\\netstandard2.0\\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\microsoft.rest.clientruntime.azure.authentication\\2.4.1"
     },
     {
       "Package": {
@@ -5699,10 +7919,10 @@
         "Version": "2.5.5"
       },
       "Assemblies": [
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OOXML.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OpenXml4Net.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OpenXmlFormats.dll"
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.dll"
       ],
       "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\npoi\\2.5.5"
     },
@@ -5969,12 +8189,12 @@
     {
       "Package": {
         "Id": "System.Buffers",
-        "Version": "4.5.1"
+        "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.buffers\\4.5.1\\lib\\netcoreapp2.0\\_._"
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.buffers\\4.3.0\\lib\\netstandard1.1\\System.Buffers.dll"
       ],
-      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.buffers\\4.5.1"
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.buffers\\4.3.0"
     },
     {
       "Package": {
@@ -6412,6 +8632,14 @@
     },
     {
       "Package": {
+        "Id": "System.Net.NetworkInformation",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.net.networkinformation\\4.3.0"
+    },
+    {
+      "Package": {
         "Id": "System.Net.Primitives",
         "Version": "4.3.0"
       },
@@ -6445,6 +8673,16 @@
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.objectmodel\\4.3.0\\lib\\netstandard1.3\\System.ObjectModel.dll"
       ],
       "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.objectmodel\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Private.DataContractSerialization",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.private.datacontractserialization\\4.3.0\\lib\\netstandard1.3\\System.Private.DataContractSerialization.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.private.datacontractserialization\\4.3.0"
     },
     {
       "Package": {
@@ -6632,6 +8870,26 @@
     },
     {
       "Package": {
+        "Id": "System.Runtime.Serialization.Json",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.runtime.serialization.json\\4.3.0\\lib\\netstandard1.3\\System.Runtime.Serialization.Json.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.runtime.serialization.json\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Runtime.Serialization.Primitives",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0\\lib\\netstandard1.3\\System.Runtime.Serialization.Primitives.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0"
+    },
+    {
+      "Package": {
         "Id": "System.Security.AccessControl",
         "Version": "5.0.0"
       },
@@ -6774,6 +9032,14 @@
     },
     {
       "Package": {
+        "Id": "System.Security.SecureString",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.security.securestring\\4.3.0"
+    },
+    {
+      "Package": {
         "Id": "System.ServiceModel.Duplex",
         "Version": "4.7.0"
       },
@@ -6808,8 +9074,8 @@
         "Version": "4.7.0"
       },
       "Assemblies": [
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.Primitives.dll"
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.Primitives.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.dll"
       ],
       "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0"
     },
@@ -6931,6 +9197,14 @@
     },
     {
       "Package": {
+        "Id": "System.Threading.Overlapped",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.threading.overlapped\\4.3.0"
+    },
+    {
+      "Package": {
         "Id": "System.Threading.Tasks",
         "Version": "4.3.0"
       },
@@ -6956,6 +9230,26 @@
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\lib\\netcoreapp2.1\\_._"
       ],
       "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4"
+    },
+    {
+      "Package": {
+        "Id": "System.Threading.Thread",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.threading.thread\\4.3.0\\lib\\netstandard1.3\\System.Threading.Thread.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.threading.thread\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Threading.ThreadPool",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.threading.threadpool\\4.3.0\\lib\\netstandard1.3\\System.Threading.ThreadPool.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.threading.threadpool\\4.3.0"
     },
     {
       "Package": {
@@ -7007,6 +9301,26 @@
     },
     {
       "Package": {
+        "Id": "System.Xml.XmlDocument",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\lib\\netstandard1.3\\System.Xml.XmlDocument.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.xml.xmldocument\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Xml.XmlSerializer",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\lib\\netstandard1.3\\System.Xml.XmlSerializer.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0"
+    },
+    {
+      "Package": {
         "Id": "UiPath",
         "Version": "23.4.57.3408"
       },
@@ -7024,6 +9338,18 @@
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib\\net5.0-windows7.0\\UiPath.Activities.RuntimeGovernance.dll"
       ],
       "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Azure.Activities",
+        "Version": "1.4.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.azure.activities\\1.4.0\\lib\\net6.0-windows7.0\\UiPath.Azure.Activities.Design.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.azure.activities\\1.4.0\\lib\\net6.0-windows7.0\\UiPath.Azure.Activities.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.azure.activities\\1.4.0\\lib\\net6.0-windows7.0\\UiPath.Azure.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.azure.activities\\1.4.0"
     },
     {
       "Package": {
@@ -7055,8 +9381,8 @@
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.excel.activities\\2.20.1\\lib\\net5.0-windows7.0\\Microsoft.Vbe.Interop.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.excel.activities\\2.20.1\\lib\\net5.0-windows7.0\\Office.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.excel.activities\\2.20.1\\lib\\net5.0-windows7.0\\UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.excel.activities\\2.20.1\\lib\\net5.0-windows7.0\\UiPath.Excel.Activities.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.excel.activities\\2.20.1\\lib\\net5.0-windows7.0\\UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.excel.activities\\2.20.1\\lib\\net5.0-windows7.0\\UiPath.Excel.Activities.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.excel.activities\\2.20.1\\lib\\net5.0-windows7.0\\UiPath.Excel.dll"
       ],
       "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.excel.activities\\2.20.1"
@@ -7160,8 +9486,8 @@
       "Assemblies": [
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.testing.activities\\23.4.0\\lib\\net6.0-windows7.0\\UiPath.Testing.Activities.Design.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.testing.activities\\23.4.0\\lib\\net6.0-windows7.0\\UiPath.Testing.Activities.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.testing.activities\\23.4.0\\lib\\net6.0-windows7.0\\UiPath.Testing.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.testing.activities\\23.4.0\\lib\\net6.0-windows7.0\\UiPath.Testing.RulesLibrary.dll"
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.testing.activities\\23.4.0\\lib\\net6.0-windows7.0\\UiPath.Testing.RulesLibrary.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.testing.activities\\23.4.0\\lib\\net6.0-windows7.0\\UiPath.Testing.dll"
       ],
       "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.testing.activities\\23.4.0"
     },
@@ -7189,11 +9515,11 @@
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net6.0-windows7.0\\UiPath.CV.Activities.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net6.0-windows7.0\\UiPath.CV.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net6.0-windows7.0\\UiPath.Semantic.Activities.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net6.0-windows7.0\\UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net6.0-windows7.0\\UiPath.UIAutomationCore.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.Contracts.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.dll"
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net6.0-windows7.0\\UiPath.UiAutomation.Activities.dll"
       ],
       "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.4"
     },
@@ -7205,11 +9531,21 @@
       "Assemblies": [
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.vision\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.vision\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.Vision.Core.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.vision\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.Vision.dll",
         "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.vision\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.vision\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.vision\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.vision\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\uipath.vision\\3.10.1"
+    },
+    {
+      "Package": {
+        "Id": "WindowsAzure.Storage",
+        "Version": "9.3.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\danielle.contieri\\.nuget\\packages\\windowsazure.storage\\9.3.3\\lib\\netstandard1.3\\Microsoft.WindowsAzure.Storage.dll"
+      ],
+      "Path": "C:\\Users\\danielle.contieri\\.nuget\\packages\\windowsazure.storage\\9.3.3"
     }
   ]
 }
