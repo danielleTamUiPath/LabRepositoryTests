@@ -1,5 +1,6 @@
 {
   "name": "LabTests",
+  "projectId": "015b7303-df6e-41aa-a343-6a5cd39cbd98",
   "description": "Test GitHub Actions",
   "main": "Main.xaml",
   "dependencies": {
@@ -44,7 +45,8 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true
+    "modernBehavior": true,
+    "saveToCloud": false
   },
   "expressionLanguage": "CSharp",
   "entryPoints": [
