@@ -13,26 +13,32 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+env:
+  ORCH_SECRET:  ${{ secrets.PIPEORCHSECRET }} #create in repository
+  ORCH_CLIENT_ID: ${{ secrets.PIPEORCHAPPID }}
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  UiPath:
-    # The type of runner that the job will run on
-    runs-on: windows-latest
-    # Steps represent a sequence of tasks that will be executed as part of the job
+  cleaner:
+    runs-on:  windows-latest
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
-
-      # Runs a single command using the runners shell
-      - name: Run Tests
+      - name: Runner workspace path
         run: |
-          echo Running Tests
-          UiPath.CLI.Windows.23.6.8581.19168\tools\uipcli.exe test run "https://staging.uipath.com" DefaultTenant -A tamcontieri -I "21318148-ee20-410e-a991-c357267204c6" -S "Iubn8)fXMaD2omD*" --applicationScope "OR.Folders OR.Settings OR.Administration OR.Analytics OR.Assets OR.Audit OR.BackgroundTasks OR.Execution OR.Hypervisor OR.Jobs OR.License OR.Machines OR.ML OR.Monitoring OR.Queues OR.Robots OR.Tasks OR.TestDataQueues OR.TestSetExecutions OR.TestSets OR.TestSetSchedules OR.Users" -s "MyRobotTestSet"
-          
-          
+          echo "Cleaning up previous run"
+          rm -rf "$ {{ github.workspace }}"
 
-      # Runs a set of commands using the runners shell
-      - name: Publish Testes
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+  analyze-project:
+    needs: cleaner
+    runs-on: windows-latest
+    steps:
+      - name: Check out repository code 
+        uses: actions/checkout@v3
+      - name: Analyze project for errors  
+        shell:  pwsh
+        run:  ${{ github.workspace }}\UiPathAnalyzeProject.ps1 ${{ github.workspace }}\project.json -analyzerTraceLevel "Error" -uipathCliFilePath ${{ github.workspace }}\uipcli.exe -stopOnRuleViolation true -treatWarningsAsErrors false -resultPath ${{ github.workspace }}\validate.json -orchestratorTenant "Default" -orchestratorAccountForApp "tamcontieri" -orchestratorApplicationId ${{ secrets.UIPATHCLIENTID }} -orchestratorApplicationSecret ${{ secrets.UIPATHCLIENTSECRET }} -orchestratorApplicationScope "OR.Monitoring OR.ML OR.Tasks OR.Analytics OR.Folders OR.BackgroundTasks OR.TestSets OR.TestSetExecutions OR.TestSetSchedules OR.TestDataQueues OR.Audit OR.License OR.Settings OR.Robots OR.Machines OR.Execution OR.Assets OR.Administration OR.Users OR.Jobs OR.Queues OR.Hypervisor" -OrchestratorUrl "https://staging.uipath.com" -orchestratorFolder "Shared"
+      - name: Upload Analyzer File
+        uses: actions/upload-artifact@v3
+        with: 
+          name: ValidationFile
+          path: validate.json
+          
