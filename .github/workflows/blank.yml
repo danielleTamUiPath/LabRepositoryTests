@@ -25,7 +25,7 @@ jobs:
       - name: Runner workspace path
         run: |
           echo "Cleaning up previous run"
-          rm -rf "$ {{ github.workspace }}"
+
 
   analyze-project:
     needs: cleaner
